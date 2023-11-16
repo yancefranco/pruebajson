@@ -79,10 +79,10 @@
       },
       {
         "id": 12,
-        "imagen": "https://img.freepik.com/vector-premium/plantilla-banner-web-portada-redes-sociales-servicio-agricultura-agricola_506626-109.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1699142400&semt=ais",
-        "titulo": "Prueba de api",
-        "fecha": "2024-12-10",
-        "descripcion": "descripcion"
+        "imagen": "url_imagen_12.jpg",
+        "titulo": "Programa de capacitación para jóvenes agricultores",
+        "fecha": "2023-11-04",
+        "descripcion": "Se implementa un programa de capacitación para jóvenes agricultores, fomentando la participación de la próxima generación en la agricultura y promoviendo prácticas sostenibles."
       }
     ],
     "profile": {
