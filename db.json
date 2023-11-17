@@ -7,7 +7,7 @@
          "fecha":"2023-11-15",
          "descripcion":"Durante la pandemia, la deforestación ha alcanzado niveles preocupantes en todo el mundo, destacando la necesidad urgente de prácticas agrícolas sostenibles y conservación forestal.",
          "enlace":"https://www.agrisolucion.com/distribuidor/ver/greenhow/",
-         "categoria": "Deforestación"
+         "category": "Deforestación"
       },
       {
          "id":2,
@@ -16,7 +16,7 @@
          "fecha":"2023-11-14",
          "descripcion":"Prepara tu jardín de otoño con esta guía completa. Aprende sobre las mejores plantas para cultivar en esta temporada y cómo cuidarlas adecuadamente.",
          "enlace":"https://www.duiops.net/seresvivos/galeria_plantas_4.html",
-         "categoria": "Agro-Rural"
+         "category": "Agro-Rural"
       },
       {
          "id":3,
@@ -25,7 +25,7 @@
          "fecha":"2023-11-13",
          "descripcion":"Prepara tu jardín de otoño con esta guía completa. Aprende sobre las mejores plantas para cultivar en esta temporada y cómo cuidarlas adecuadamente.",
          "enlace":"https://www.duiops.net/seresvivos/galeria_plantas_4.html",
-         "categoria": "Hidroponía"
+         "category": "Hidroponía"
       },
       {
          "id":4,
@@ -34,7 +34,7 @@
          "fecha":"2023-11-12",
          "descripcion":"La agricultura regenerativa gana popularidad a medida que los agricultores adoptan prácticas para mejorar la salud del suelo, aumentar la retención de agua y reducir la erosión.",
          "enlace":"https://www.agrisolucion.com/distribuidor/ver/greenhow/",
-         "categoria": "Agroindustria"
+         "category": "Agroindustria"
       },
       {
          "id":5,
@@ -43,7 +43,7 @@
          "fecha":"2023-11-11",
          "descripcion":"Una empresa presenta drones agrícolas equipados con tecnología de inteligencia artificial para monitorear cultivos, detectar enfermedades y optimizar el uso de recursos agrícolas.",
          "enlace":"https://www.agrisolucion.com/distribuidor/ver/greenhow/",
-         "categoria": "Agroindustria"
+         "category": "Agroindustria"
       },
       {
          "id":6,
@@ -52,7 +52,7 @@
          "fecha":"2023-11-10",
          "descripcion":"El interés en los alimentos orgánicos sigue creciendo, y más agricultores adoptan prácticas sostenibles para satisfacer la demanda de productos libres de pesticidas y químicos.",
          "enlace":"https://www.agrisolucion.com/distribuidor/ver/greenhow/",
-         "categoria": "Agro-Rural"
+         "category": "Agro-Rural"
       },
       {
          "id":7,
@@ -61,7 +61,7 @@
          "fecha":"2023-11-09",
          "descripcion":"Científicos trabajan en la creación de supercultivos genéticamente mejorados para aumentar los rendimientos y abordar la creciente preocupación por la seguridad alimentaria a nivel mundial.",
          "enlace":"https://www.agrisolucion.com/distribuidor/ver/greenhow/",
-         "categoria": "Agroindustria"
+         "category": "Agroindustria"
       },
       {
          "id":8,
@@ -70,7 +70,7 @@
          "fecha":"2023-11-08",
          "descripcion":"Avances tecnológicos permiten una mayor precisión en la agricultura, con sensores y GPS mejorando la eficiencia en la siembra, el riego y la cosecha de cultivos.",
          "enlace":"https://www.agrisolucion.com/distribuidor/ver/greenhow/",
-         "categoria": "Agroindustria"
+         "category": "Agroindustria"
       },
       {
          "id":9,
@@ -79,7 +79,7 @@
          "fecha":"2023-11-07",
          "descripcion":"El enfoque agroecológico gana terreno, promoviendo la biodiversidad, la rotación de cultivos y prácticas agrícolas que benefician tanto a los agricultores como al medio ambiente.",
          "enlace":"https://www.agrisolucion.com/distribuidor/ver/greenhow/",
-         "categoria": "Agro-Rural"
+         "category": "Agro-Rural"
       },
       {
          "id":10,
@@ -88,7 +88,7 @@
          "fecha":"2023-11-06",
          "descripcion":"Se lanza un proyecto de reforestación en áreas agrícolas para compensar las emisiones de carbono, mejorar la calidad del suelo y proporcionar beneficios adicionales a la comunidad.",
          "enlace":"https://www.agrisolucion.com/distribuidor/ver/greenhow/",
-         "categoria": "Agro-Rural"
+         "category": "Agro-Rural"
       },
       {
          "id":11,
@@ -97,7 +97,7 @@
          "fecha":"2023-11-05",
          "descripcion":"Investigadores logran crear alimentos transgénicos que pueden resistir condiciones de sequía, ofreciendo una solución potencial para enfrentar los desafíos del cambio climático en la agricultura.",
          "enlace":"https://www.agrisolucion.com/distribuidor/ver/greenhow/",
-         "categoria": "Agroindustria"
+         "category": "Agroindustria"
       }
    ],
    "profile":{
